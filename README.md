@@ -12,10 +12,10 @@
 
 ## Skills
 
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![C++]
+![Python]
+![TensorFlow]
+![OpenCV]
 
 Also: NumPy, Pandas, NS-3, SUMO. Game dev at an introductory level: Unreal Engine (Blueprints), SDL2, raylib, Godot.
 
