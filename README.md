@@ -1,9 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Aayush Khatiwada👋
 
 <!--
-# Hi, I'm Aayush Khatiwada 👋
-
-Computer engineer (B.E., Tribhuvan University) with a Master of Computer Science, based in **Kathmandu, Nepal**. I write C++ and Python, and I'm looking for an entry-level software developer role.
+#Computer engineer (B.E., Tribhuvan University) with a Master of Computer Science, based in **Kathmandu, Nepal**. I write C++ and Python, and I'm looking for an entry-level software developer role.
 
 ## What I've worked on
 
